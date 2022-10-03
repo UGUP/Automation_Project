@@ -11,7 +11,7 @@ I have also uploaded a script to Automate Daily routine tasks.
 
 Steps to follow to execute the Script in your EC2 machine.
 
-1)go to /root using cd /rootcommand
+1) cd /root 
 
 2) mkdir Automation_Project 
 
