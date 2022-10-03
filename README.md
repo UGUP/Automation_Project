@@ -6,7 +6,7 @@ This is a Devops assignment where I am trying to implement the concepts learned 
 3) DevOps - Git, Web servers and AWS services. 
 
 Using AWS Services I will be setting up the necessary infrastructure on AWS. I have also uploaded a automation.sh script here which will take care of 
-the autodeployment of the web server on Linux machine and will also archieve the logs of the web server and place it into the S3 bucket.
+the auto deployment of the web server on Linux machine and will also archieve the logs of the web server and place it into the S3 bucket.
 I have also uploaded a script to Automate Daily routine tasks.
 
 Steps to follow to execute the Script in your EC2 machine.
@@ -21,5 +21,5 @@ Steps to follow to execute the Script in your EC2 machine.
 
 5) run chmod +x automation.sh script 
 
-6) run the scriopt using  sh automation.sh command 
+6) run the script using  sh automation.sh command 
 
